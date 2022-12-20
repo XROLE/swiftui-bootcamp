@@ -14,6 +14,7 @@
 		18C9E5852951846C008DBB39 /* swiftui_bootcampTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E5842951846C008DBB39 /* swiftui_bootcampTests.swift */; };
 		18C9E58F2951846C008DBB39 /* swiftui_bootcampUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E58E2951846C008DBB39 /* swiftui_bootcampUITests.swift */; };
 		18C9E5912951846C008DBB39 /* swiftui_bootcampUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E5902951846C008DBB39 /* swiftui_bootcampUITestsLaunchTests.swift */; };
+		18C9E5A029518728008DBB39 /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C9E59F29518728008DBB39 /* TextBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		18C9E58A2951846C008DBB39 /* swiftui-bootcampUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swiftui-bootcampUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18C9E58E2951846C008DBB39 /* swiftui_bootcampUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_bootcampUITests.swift; sourceTree = "<group>"; };
 		18C9E5902951846C008DBB39 /* swiftui_bootcampUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_bootcampUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		18C9E59F29518728008DBB39 /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				18C9E5732951846A008DBB39 /* swiftui_bootcampApp.swift */,
 				18C9E5752951846A008DBB39 /* ContentView.swift */,
+				18C9E59F29518728008DBB39 /* TextBootCamp.swift */,
 				18C9E5772951846C008DBB39 /* Assets.xcassets */,
 				18C9E5792951846C008DBB39 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				18C9E5762951846A008DBB39 /* ContentView.swift in Sources */,
 				18C9E5742951846A008DBB39 /* swiftui_bootcampApp.swift in Sources */,
+				18C9E5A029518728008DBB39 /* TextBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
